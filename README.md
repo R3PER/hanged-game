@@ -3,9 +3,6 @@ An advanced implementation of the classic 'Hangman' game running in the console.
 
 
 
-# Hangman – Console Game
-
-An extended implementation of the classic "Hangman" game written in Go.
 
 ## Features
 

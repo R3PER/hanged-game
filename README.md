@@ -2,6 +2,17 @@
 
 An advanced implementation of the classic 'Hangman' game running in the console. It's an interactive game with RPG elements, where the player has to guess a hidden word by providing letters. The game features a colorful interface, level and experience system, inventory, and an item shop.
 
+## Screens
+<img width="801" height="554" alt="1" src="https://github.com/user-attachments/assets/554a6127-109b-4cb6-a416-3dfb8a49b656" />
+<img width="903" height="582" alt="2" src="https://github.com/user-attachments/assets/fa8d8e6e-af1c-44a2-94d4-fc04a562f563" />
+<img width="989" height="595" alt="3" src="https://github.com/user-attachments/assets/31ec03fe-d754-42de-9cd6-13f23450de4e" />
+<img width="903" height="601" alt="4" src="https://github.com/user-attachments/assets/4fe44685-c4bb-4d97-b2e8-cbe735dbedcd" />
+<img width="845" height="576" alt="5" src="https://github.com/user-attachments/assets/1bfe1310-5876-4648-bbc7-97616b3a5984" />
+<img width="895" height="676" alt="6" src="https://github.com/user-attachments/assets/dea4632e-1d4c-477f-884d-3ae7c80f07f9" />
+<img width="847" height="673" alt="7" src="https://github.com/user-attachments/assets/bfdbf97c-7628-45d4-8edb-a35cb13556ce" />
+
+
+
 ## Features
 
 - Colorful console interface  

@@ -1,0 +1,15 @@
+{
+  "games_played": 1,
+  "games_won": 0,
+  "total_points": -20,
+  "highest_score": 0,
+  "game_history": [
+    {
+      "word": "interfejs",
+      "result": "lose",
+      "points": -20,
+      "difficulty": 8,
+      "date": "2025-08-16T03:14:22.205836275+02:00"
+    }
+  ]
+}

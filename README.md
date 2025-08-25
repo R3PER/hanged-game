@@ -22,7 +22,7 @@ An advanced implementation of the classic 'Hangman' game running in the console.
 
 1. Clone the repository:
 ```
-git clone https://github.com/r3per/hanged-game.git
+git clone https://github.com/R3PER/hanged-game.git
 cd hanged-game
 ```
 
